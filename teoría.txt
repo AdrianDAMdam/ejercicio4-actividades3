@@ -1,0 +1,5 @@
+4. GitHUB desaroyadores
+Github és una plataforma de gestió de codi ens proporciona emmagatzematge per
+a projectes sota el sistema de control de versions Git. En GitHub podrem crear repositoris
+en els quals allotjarem projectes i a més ens oferirà una sèrie de funcionalitats extra molt
+interessants que podrem veure.
